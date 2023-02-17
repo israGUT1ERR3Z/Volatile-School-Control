@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1662358546 source:d:\edya\controlescolarvolatil\main.cpp
+	<string>
+	<iostream>
+	<cstdlib>
+	<clocale>
+	<windows.h>
+	<vector>
+	"Alumno.h"
+	"Profesor.h"
+
+1662340308 source:d:\edya\controlescolarvolatil\src\humano.cpp
+	"Humano.h"
+	<string>
+
+1662342788 d:\edya\controlescolarvolatil\include\humano.h
+	<string>
+
+1662342820 source:d:\edya\controlescolarvolatil\src\alumno.cpp
+	"Alumno.h"
+	<iostream>
+	<string>
+
+1662343244 d:\edya\controlescolarvolatil\include\alumno.h
+	"Humano.h"
+	<string>
+
+1662358358 source:d:\edya\controlescolarvolatil\src\profesor.cpp
+	"Profesor.h"
+	<string>
+	<iostream>
+
+1662358358 d:\edya\controlescolarvolatil\include\profesor.h
+	"Humano.h"
+	<string>
+	<vector>
+
